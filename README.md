@@ -1,11 +1,12 @@
-📚 Quiz App - Programação para Web
+📚 Quiz App - React + TypeScript 
 
-Este projeto é um sistema de quiz desenvolvido com React + TypeScript, com navegação entre telas, pontuação e armazenamento de dados no navegador.
+Esta atividade é uma prática de quiz desenvolvida para disciplina de Programação para Web no Instituto Federal do Piauí (IFPI) - Campus Piripiri.
 
-🚀 Tecnologias utilizadas
-React
-TypeScript
-React Router DOM
+## 🚀 Tecnologias utilizadas
+•React Router Dom (Gerenciamento de Rotas)
+•Vite (Build Tool)
+•Tailwindcss v4(Estilização)
+•React TypeScript
 LocalStorage (para salvar dados no navegador)
 Vite (caso esteja usando Vite)
 📁 Como instalar o projeto
